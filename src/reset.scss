@@ -1,0 +1,9 @@
+.reset__btn {
+  background: darkmagenta;
+  border: none;
+  color: lightgoldenrodyellow;
+  padding: 10px;
+  &--success {
+    background: darkolivegreen;
+  }
+}

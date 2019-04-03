@@ -1,0 +1,8 @@
+.login__btn {
+  background: skyblue;
+  border: none;
+  padding: 10px;
+  &--success {
+    background: greenyellow;
+  }
+}

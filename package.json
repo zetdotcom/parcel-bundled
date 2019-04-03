@@ -1,0 +1,17 @@
+{
+  "name": "test-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/login.html src/reset.html",
+    "prod": "parcel build src/login.html src/reset.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "parcel-bundler": "^1.12.3"
+  }
+}
